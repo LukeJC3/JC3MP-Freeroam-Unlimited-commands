@@ -1,3 +1,5 @@
+//funny admin command to troll players that are being a dick
+//type /explore [playername] if they are in a vehicle and boom
 'use strict';
 
 module.exports = ({ Command, manager }) => {
