@@ -1,3 +1,5 @@
+//very funny admin command to mess with players being dicks
+//type /yeet [playername] and they will go flying
 'use strict';
 
 module.exports = ({ Command, manager }) => {
