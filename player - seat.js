@@ -1,3 +1,7 @@
+//a simple command to change your current seat
+//in a vehicle, type /seat [seat number]
+//the driver seat is zero, passenger is 1, and back seats are 2 and 3, tho a few vehicles have more than 4 seats, like the Baltdjur tank
+
 'use strict';
 const utility = require('../gm/utility');
 const locations = require('../gm/defaultTeleports');
