@@ -1,3 +1,5 @@
+//simple restart copmmand you can use from the server chat
+//may act up if you use an auto restarter
 'use strict';
 
 module.exports = ({ Command, manager }) => {
