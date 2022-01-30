@@ -1,3 +1,5 @@
+//simple vehicle spawn command
+//type /vehicle [hash]
 'use strict';
 
 module.exports = ({ Command, manager }) => {
