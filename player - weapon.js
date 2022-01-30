@@ -1,3 +1,5 @@
+//simple weapon spawn command
+//type /weapon [hash]
 'use strict';
 
 module.exports = ({ Command, manager }) => {
