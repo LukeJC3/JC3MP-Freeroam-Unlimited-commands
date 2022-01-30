@@ -1,3 +1,4 @@
+//simple command to block a players inputs
 'use strict';
 
 module.exports = ({ Command, manager }) => {
