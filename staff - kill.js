@@ -1,3 +1,4 @@
+//simple command to kill a player
 'use strict';
 
 module.exports = ({ Command, manager }) => {
