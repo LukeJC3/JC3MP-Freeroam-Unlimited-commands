@@ -1,3 +1,7 @@
+//simple object spawn command
+//type /object [name]
+//objects are not fully implemented in jc3mp and lack some features that vehicles have
+//most also despawn when you move away from them, which was fixed in the unlimited modpack
 'use strict';
 
 module.exports = ({ Command, manager }) => {
