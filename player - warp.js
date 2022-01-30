@@ -1,3 +1,5 @@
+//Command to change game dimensions
+//0 is the default
 'use strict';
 
 module.exports = ({ Command, manager }) => {
